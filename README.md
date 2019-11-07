@@ -1,2 +1,2 @@
-# CS428
-Computer Networks
+# CS428: Computer Networks
+Communication protocols and layering, hardware-software infrastructures for networking, MAC protocols, data link protocols, switching, inter- and intra-domain routing, the TCP/IP protocol suite, transport protocols, application layer protocols, local and system area networks, wireless and sensor networks, overlay and virtual networks, client-server and peer-to-peer models, network programming with sockets, protocol design and implementation issues, network security.
